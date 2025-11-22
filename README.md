@@ -7,7 +7,7 @@ This guide shows you how to automatically open multiple Google Chrome profiles *
 ## 📌 Step 1 — Find Your Chrome Profile Paths
 
 Open **Google Chrome**  >  Go to: **chrome://version**  >  Look for the line **Profile Path**  
-   It will look like:
+   It will look like - 
    C:\Users\John\AppData\Local\Google\Chrome\User Data\Profile 2
 
 
@@ -30,14 +30,19 @@ start "" "C:\Program Files\Google\Chrome\Application\chrome.exe" --profile-direc
 
 ## Important:
 
-Replace : C:\Program Files\Google\Chrome\Application\chrome.exe  with the Chrome path from your system.
+Replace - C:\Program Files\Google\Chrome\Application\chrome.exe  with the Chrome path from your system.
 To find your exact path:
 Go to chrome://version  >  Look at the Command Line
 
+---
+
 ## 📌 Step 3 — Save the Script
 
-Save the file as : open_profiles.bat
+Save the file as : open_profiles.bat 
+
 **Make sure the file extension is .bat, not .txt.**
+
+---
 
 ## 📌 Step 4 — Add to Startup Folder
 

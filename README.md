@@ -32,9 +32,9 @@ start "" "C:\Program Files\Google\Chrome\Application\chrome.exe" --profile-direc
 
 Replace - C:\Program Files\Google\Chrome\Application\chrome.exe  with the Chrome path from your system.
 To find your exact path:
-Go to chrome://version  >  Look at the Command Line.
+Go to **chrome://version**  >  Look at the **Command Line**. 
 
-Change the time t if needed
+Change the time **t** if needed
 
 ---
 
@@ -48,6 +48,6 @@ Save the file as : open_profiles.bat
 
 ## 📌 Step 4 — Add to Startup Folder
 
-Press Win + R  >  type shell:startup  >  Place your open_profiles.bat file inside this folder.
+Press **Win + R**  >  type **shell:startup**  >  Place your open_profiles.bat file inside this folder.
 
 

@@ -32,7 +32,8 @@ start "" "C:\Program Files\Google\Chrome\Application\chrome.exe" --profile-direc
 
 Replace - C:\Program Files\Google\Chrome\Application\chrome.exe  with the Chrome path from your system.
 To find your exact path:
-Go to chrome://version  >  Look at the Command Line
+Go to chrome://version  >  Look at the Command Line 
+Change the time t if needed
 
 ---
 
